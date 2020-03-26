@@ -1,0 +1,33 @@
+{
+  "name": "maks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "the document of Maks",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docdev": "vuepress dev docs",
+    "docbuild": "vuepress build docs && echo \"maks.ans.ee\" > docs/.vuepress/dist/CNAME"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kou-yi/Maks.git"
+  },
+  "keywords": [
+    "blockchain",
+    "chat",
+    "document",
+    "drrr"
+  ],
+  "author": "An",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kou-yi/Maks/issues"
+  },
+  "homepage": "https://github.com/kou-yi/Maks#readme",
+  "dependencies": {
+    "gitalk": "^1.6.2",
+    "vuepress": "^1.3.1"
+  }
+}
