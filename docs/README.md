@@ -14,4 +14,5 @@ Maks的名字源于drrr的dollars，对应的货币是还在咕的[Makcoin](http
 
 Maks的实现[原理](/principle/)  
 
-Maks的QQ裙：931468826，欢迎来咕  
+Maks的QQ裙：931468826，欢迎来咕 
+
