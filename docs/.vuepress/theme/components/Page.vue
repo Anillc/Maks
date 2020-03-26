@@ -29,7 +29,7 @@ export default {
     let gitalk = new Gitalk({
       clientID: '596e5e499fdeccbda70e',
       clientSecret: 'a34c47d89879fa27cf31d124f62492a1e6ca6ede',
-      repo: 'Maks-document',
+      repo: 'Maks',
       owner: 'kou-yi',
       admin: ['kou-yi'],
       id: location.pathname,
